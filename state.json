@@ -1,4 +1,6 @@
 {
-  "seen_event_ids": [],
+  "seen_event_ids": [
+    845
+  ],
   "consecutive_failures": 0
 }
