@@ -1,7 +1,8 @@
 {
   "seen_event_ids": [
     843,
-    845
+    845,
+    870
   ],
   "consecutive_failures": 0
 }
